@@ -12,7 +12,7 @@ const Footer: React.FunctionComponent<FooterProps> = (): JSX.Element => {
           <span className="text-[#c60049]"> ❤ </span>
           by
           <span className="font-bold font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-light-rate1 via-light-rate2 to-light-rate3">
-            <a target="_blank" href="https://github.com/monirehbastami">
+            <a target="_blank" href="#">
               &nbsp;Monireh Bastami
             </a>
           </span>
